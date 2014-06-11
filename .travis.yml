@@ -1,0 +1,7 @@
+deploy:
+  provider: heroku
+  api_key:
+    secure: bo7xEAG+rDAIIvDZOP9QCbNuNInTrFZ0zDaddQhZbb/KT21YKx/3vyX38nZnNv1C763fXUT3ZX4sU9y2nXFRXQuCzBi06ZlJlcZbwadvO3Hz0uHzvW1KDkHCOmK8B1g0Y+tqVU4BTORhN/xadEZCZfHqBjvXPHSwIymnYfffOnw=
+  app: duckduckduck
+  on:
+    repo: gark87/duckduckduck
